@@ -25,7 +25,8 @@ This project showcases my ability to build full-stack applications, manage datab
 
 🚀 Next Steps: Looking to expand this system by integrating Power BI for advanced data visualization and adding AI-driven demand forecasting for better inventory management.
 
-# python_projects_grocery_webapp
+# Python Project Webapp
+
 In this python project, we will build a grocery store management application. It will be 3 tier application,
 1. Front end: UI is written in HTML/CSS/Javascript/Bootstrap
 2. Backend: Python and Flask
